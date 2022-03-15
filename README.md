@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ahh it's my first time to write something here 
 
-i'm 19 and my first vivsit in github when i was 17
+i'm 19 and my first github visit was 17
 yeah that's it i want to become a greatest programmer and i will and i'm trying :)
 
 i hope to see u if u have good programming skills 
